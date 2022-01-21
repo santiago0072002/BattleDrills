@@ -1,0 +1,29 @@
+I started working on Battle Drills for the cyber world.
+
+Each battle drill might or might not have individual tasks. 
+
+I will be dummying the process of learning defensive operations and offensive operations in a way that Grunts can understand.
+
+The drills will be block-chained, thus allowing me with the ability to check if any of the data and where if is being tampered. 
+
+Battle drill 1 - protective Ambush. 
+
+Set up honey pots - “ battle drill 2 “ 
+
+Direct traffic to specifics ports, 
+
+Set up one honey port for every other port open.
+
+Only open ports known by offensive tools.
+
+Automate the process of detection. 
+
+When setting up honey pots ensure there is a mechanism to lock the intrusive system, 
+
+Ensure Mechanism can tell if is a VM and if true, employ vm escape code. (Battle drill 4 - breaching an obstacle ) 
+
+Move to battle drill 3 - (knock out system) 
+
+Ensure logs are captured, add determine ip source. 
+
+Check database of known VPN providers and follow VPN traffic, do not block vpn company. We are looking for the source ip of the router. 
