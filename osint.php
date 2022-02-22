@@ -58,6 +58,8 @@ MyDirectories(".");
 
     <button class="" style="width:20%" onclick="window.location.href='https://osintframework.com/';">OSINT FRAMEWORK</button>
 
+    <button class="" style="width:20%" onclick="window.location.href='https://www.osinttechniques.com/osint-tools.html';">OSINT TOOLS</button>
+
     <button class="" style="width:20%" onclick="window.location.href='http://advangle.com/';"> Advangle</button>
 
     <button class="" style="width:20%" onclick="window.location.href='http://search.aol.com/';"> AOL</button>
